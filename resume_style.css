@@ -1,0 +1,56 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#wrapper
+{
+	width: 700px;
+	height: 800px;
+	margin: 0px auto;
+
+}
+
+#wrapper h1
+{
+	text-align: center;
+	padding: 20px;
+}
+p
+{
+	font-size: 20px;
+}
+#img
+{
+
+	margin-right: 20px;
+	clear: both;
+	float: right;
+}
+#border
+{
+	padding: 5px;
+	background-color: rgb(200, 200, 200);
+	border: 1px solid black;
+	font-weight: bold; 
+}
+#table
+{
+   
+	text-align: center;
+	font-size: 20px;
+  background-color: rgb(200, 200, 200);
+  border-spacing: 15px;
+  border-collapse: collapse;
+}
+
+#list
+{
+	
+	font-size: 20px;
+	margin-left: 40px;
+}
+h2
+{
+	float: right;
+}
